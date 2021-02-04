@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a webGL Animation framework for webbased games. [Github](https://github.com/matthijsgroen/animation-builder)
 - 🌱 I’m currently learning WebGL and Functional Programming
 
-🏁 Personal projects I'm proud of:
+### 🏁 Personal projects I'm proud of:
 
 🚀 **Speedlazer**: A webbased 2d shooter game. [Github](https://github.com/speedlazer/speedlazer), [Play](https://speedlazer.net/)
 > Proud about: GameController support. First WebGL Game with own shaders, own textures, own particle engine.
