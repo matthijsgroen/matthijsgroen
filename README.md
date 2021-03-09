@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a webGL Animation framework for webbased games. [Github](https://github.com/matthijsgroen/animation-builder)
+- 🔭 I’m currently working on a webGL Animation framework for webbased games "Geppetto". [Github](https://github.com/matthijsgroen/geppetto)
 - 🌱 I’m currently learning WebGL and Functional Programming
 
 ### 🏁 Personal projects I'm proud of:
