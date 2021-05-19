@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a webGL Animation framework for webbased games "Geppetto". [Github](https://github.com/matthijsgroen/geppetto)
-- 🌱 I’m currently learning WebGL and Functional Programming
+- 🔭 I’m currently working on a webbased grahical adventure game engine. [Github](https://github.com/matthijsgroen/point-n-click)
 
 ### 🏁 Personal projects I'm proud of:
 
-🌲 **Geppetto**: An electron app to create WebGL Animations, and a player for web. [Website](https://geppetto.js.org), [App](https://github.com/matthijsgroen/geppetto/releases), [Npm package](https://www.npmjs.com/package/geppetto-player)  
+🌲 **Geppetto**: An electron app to create WebGL Animations, and a player for web. [Website](https://geppetto.js.org), [App](https://www.electronjs.org/apps/geppetto), [Npm package](https://www.npmjs.com/package/geppetto-player)  
 [Repo of app](https://github.com/matthijsgroen/geppetto), [Repo of player](https://github.com/matthijsgroen/geppetto-player)
 
 🚀 **Speedlazer**: A webbased 2d shooter game. [Github](https://github.com/speedlazer/speedlazer), [Play](https://speedlazer.net/)  
