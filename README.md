@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a webbased grahical adventure game engine. [Github](https://github.com/matthijsgroen/point-n-click)
+- 🔭 I’m currently working on a webbased graphical adventure game engine. [Github](https://github.com/matthijsgroen/point-n-click)
 - 🔭 I’m currently working on Geppetto v2. [Github](https://github.com/matthijsgroen/geppetto)
 
 ### 🏁 Personal projects I'm proud of:
