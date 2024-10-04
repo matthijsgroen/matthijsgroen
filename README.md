@@ -5,13 +5,16 @@
 
 ### 🏁 Personal projects I'm proud of:
 
+🍀 **Block Sort**: A PWA Mobile game where you sort blocks in stacks. [Github](https://github.com/matthijsgroen/block-sort), [Play](https://matthijsgroen.github.io/block-sort)  
+Proud about: Building it in a matter of weeks, using only one image.
+
 🌲 **Geppetto**: An electron app to create WebGL Animations, and a player for web. [Website](https://geppetto.js.org), [App (search for geppetto)](https://www.electronjs.org/apps/), [PWA (in development)](https://geppetto.js.org/app), [Npm package](https://www.npmjs.com/package/geppetto-player)  
 [Repo of app](https://github.com/matthijsgroen/geppetto), [Repo of player](https://github.com/matthijsgroen/geppetto-player)
 
-🚀 **Speedlazer**: A webbased 2d shooter game. [Github](https://github.com/speedlazer/speedlazer), [Play](https://speedlazer.net/) [Play Sinterklaas Edition](https://speedlazer.net/sint)
+🚀 **Speedlazer**: A webbased 2d shooter game. [Github](https://github.com/speedlazer/speedlazer), [Play](https://speedlazer.net/) [Play Sinterklaas Edition](https://speedlazer.net/sint)  
 Proud about: GameController support. First WebGL Game with own shaders, own textures, own particle engine.
 
-📖 **Koerier van de koning**: A dutch webbased text adventure. [Github](https://github.com/matthijsgroen/tekst-avontuur), [Play](https://tekstavontuur.nl/)
+📖 **Koerier van de koning**: A dutch webbased text adventure. [Github](https://github.com/matthijsgroen/tekst-avontuur), [Play](https://tekstavontuur.nl/)  
 Proud about: Writing the stories and defining the puzzles. I really love the story and puzzles of this one.
 
 🎁 **Sinterklaas**: A dutch graphical point and click adventure. [Github](https://github.com/matthijsgroen/sinterklaas), [Play](https://thaisi.itch.io/hiddo)  
