@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a webbased graphical adventure game engine. [Github](https://github.com/matthijsgroen/point-n-click)
-- 🔭 I’m currently working on Geppetto v2. [Github](https://github.com/matthijsgroen/geppetto)
+- 🔭 I’m currently working on math puzzle game. [Github](https://github.com/matthijsgroen/pyramid-scheme)
 
 ### 🏁 Personal projects I'm proud of:
 
@@ -25,6 +24,10 @@ Proud about: Building the game engine from scratch. Doing all the drawings, anim
 
 📊 **Ebnf 2 Railroad**: A nice tool to produce beautiful documentation from EBNF definitions. [Github](https://github.com/matthijsgroen/ebnf2railroad), [Try Online](https://matthijsgroen.github.io/ebnf2railroad/)  
 Proud about: Writing a parser using Jison, creating all kinds of cool AST optimizations, creating an ASCII version of railroad [Github](https://github.com/matthijsgroen/utf-railroad)
+
+### Still in development, but progressing slowly
+- 🔭 I’m currently working on a webbased graphical adventure game engine. [Github](https://github.com/matthijsgroen/point-n-click)
+- 🔭 I’m currently working on Geppetto v2. [Github](https://github.com/matthijsgroen/geppetto)
 
 ### Other work:
 
