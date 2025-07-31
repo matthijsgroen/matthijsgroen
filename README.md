@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on math puzzle game. [Github](https://github.com/matthijsgroen/pyramid-scheme)
+- 🔭 I’m currently working on math puzzle game. [Github](https://github.com/matthijsgroen/pyramid-scheme), [Play <sup>beta</sup>](https://matthijsgroen.github.io/pyramid-scheme/)
 
 ### 🏁 Personal projects I'm proud of:
 
